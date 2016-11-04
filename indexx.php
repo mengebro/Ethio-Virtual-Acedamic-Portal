@@ -32,7 +32,7 @@ if(isset($_SESSION['valid_user']))
     	<div class="col-sm-1"></div>
     	<div class="col-sm-5" style="border:solid 2px beige;">
     			 <div class="col-sm-2"></div>
-    			<div class="col-sm-6">
+    			<div class="col-sm-5">
     				
     				<form role="form" class="form-horizontal" method="post" action="Controller/login.php">
     					<div class="form-group">
